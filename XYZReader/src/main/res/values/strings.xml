@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">XYZ Reader</string>
+    <string name="welcome_xyz_reader">Welcome to XYZ Reader!</string>
+
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="action_share" translatable="false">Share</string>
+
+    <string name="up" translatable="false">Up</string>
+
+    <string name="shared_element_transition" translatable="false">shared_transition </string>
+
+</resources>

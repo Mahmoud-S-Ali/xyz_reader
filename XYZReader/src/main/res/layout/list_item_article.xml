@@ -1,0 +1,61 @@
+<!--<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">-->
+
+    <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/list_item_margin"
+        android:clickable="true"
+        android:focusable="true"
+        android:foreground="?selectableItemBackground">
+
+        <LinearLayout
+            android:id="@+id/item_details_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!--suppress AndroidLintContentDescription -->
+            <com.example.xyzreader.ui.DynamicHeightNetworkImageView
+                android:id="@+id/thumbnail"
+                android:layout_width="@dimen/list_item_image_width"
+                android:layout_height="@dimen/list_item_image_height"
+                android:background="@color/photo_placeholder"
+                 />
+
+            <TextView
+                android:id="@+id/article_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/List_Item_Text_Style"
+                android:textColor="@color/dkgray"
+                android:ellipsize="end"
+                android:maxLines="@integer/list_item_text_max_lines"
+                android:paddingBottom="@dimen/list_item_title_bottom_margin"
+                android:paddingLeft="@dimen/list_item_text_horizontal_margin"
+                android:paddingRight="@dimen/list_item_text_horizontal_margin"
+                android:paddingTop="@dimen/list_item_title_top_margin"
+                tools:text="Test" />
+
+            <TextView
+                android:id="@+id/article_subtitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/List_Item_Text_Style"
+                android:textColor="@color/ltgray"
+                android:ellipsize="end"
+                android:maxLines="@integer/list_item_subtitle_max_lines"
+                android:paddingBottom="@dimen/list_item_subtitle_bottom_margin"
+                android:paddingLeft="@dimen/list_item_text_horizontal_margin"
+                android:paddingRight="@dimen/list_item_text_horizontal_margin"
+                android:singleLine="true"
+                tools:text="Secondary Text Test" />
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+<!--
+</android.support.design.widget.CoordinatorLayout>-->

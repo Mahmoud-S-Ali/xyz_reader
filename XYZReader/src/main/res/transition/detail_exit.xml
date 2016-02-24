@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet xmlns:android="http://schemas.android.com/apk/res/android"
+    android:transitionOrdering="together">
+    <slide
+        android:duration="@android:integer/config_mediumAnimTime"
+        android:fromYDelta="0"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        android:toYDelta="100%p">
+        <targets>
+            <target android:targetId="@id/article_body"></target>
+        </targets>
+    </slide>
+
+    <fade
+        android:duration="@android:integer/config_mediumAnimTime"
+        android:interpolator="@android:anim/accelerate_interpolator">
+        <targets>
+            <target android:targetId="@id/detail_app_bar_layout"></target>
+        </targets>
+    </fade>
+</transitionSet>

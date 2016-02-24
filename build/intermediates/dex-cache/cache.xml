@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\pre-dexed\debug\volley_806956ae1bdb83635caf648e9271cc3d43cfe1e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_431c89fbcef2395973343e535c3ce9ee4eabf246.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-23.1.1_cb3f2c6948253c115d2eee91425f5462b73755c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.1.1_c5e6c41beebb4f04eb22cdfd99251adc1f7b8229.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_1586333fe938a03f1d0a9cd1f6e4d0a6bd00ba87.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\exploded-aar\com.github.johnkil.android-robototextview\robototextview\2.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5f292c2165997d3ca5110cdbc0e79fd9ebc7f08">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.github.johnkil.android-robototextview-robototextview-2.5.0_aa9df28d3c6899cfb42b218b172714fcc00cf516.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_c6113a09307766e417617821dbc6c1b0897b6343.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_70c2dcbeeaae7055bbb50e95ce3f39182fa31f4d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_6d6a623cfc977cbcc7c573f9798b912e541255b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.1.1_b22be5ebe001be520236fd334adacec32748b7d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.1.1_bc524d5b4494d2db1181e2d2d26d896206d0ba4d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_c5aba4efe0d0f1fe99dce597f76a2f69b65ff357.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_d04d17868f16fcea9f68e4b18f9e82e5777d673a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_154454a9438f5492ac75624acb7ff282c81c67fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-23.1.1_5ea97c2c99ba57aad2b7328139f196e2c9831944.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_c681873f1f93f6d15add5bdf0a5286eef2001265.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_c7f0720aa125ec132b9be1758ad7a640c2d4e128.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_52d4eb3d6c0e41de3b36099a53b1be0cbb53bf0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_048b16551c400f67a9487ed5914e103fd13eca41.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_22ded3e440b425b12b7eef35a55fc1f96caf973e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_06701dc693ed45d7cf1ea89ecd467736b5f01de7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_f51a2e458d660edd8f0a66b0b240b46dc200c6bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_b69b39d73f143095b886c527ac420a4f92c4220f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_0e9eb6eaf1458d65e66f7fbbcd3d67fe920e03e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\volley_3ccbd656be12b05bf5db4b3a3e765e7569d0aae1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\exploded-aar\com.github.johnkil.android-robototextview\robototextview\2.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5f292c2165997d3ca5110cdbc0e79fd9ebc7f08">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\pre-dexed\debug\com.github.johnkil.android-robototextview-robototextview-2.5.0_de2c674230e354c4a7ba77e1ceeddaad20e65a18.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-23.1.1_c8bfcc34b98cfb4f2450ee5913f3cb00fb722c63.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_77fa8fa8203f37f076f91e158bce843c985b073d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_aff3c82f01b1ee488ab50f5cd2808d76bc2f4bb3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\exploded-aar\com.github.johnkil.android-robototextview\robototextview\2.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5f292c2165997d3ca5110cdbc0e79fd9ebc7f08">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\pre-dexed\debug\com.github.johnkil.android-robototextview-robototextview-2.5.0_00b5f1a15bab0c710869a3ceb056627abb1524cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_6da85c464c300fb98fb0900c820e2cca319ab521.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\pre-dexed\debug\volley_29eb4127f957dc2846df17433ac548fb7038af59.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.1\fc4723b92bc802625a05395d98ed4245e2d489b6\okhttp-3.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fc4723b92bc802625a05395d98ed4245e2d489b6">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.1_66a992e5dfea17866254f3c8126b5bd787871b57.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_f4094b5381f43dd4e5c5d8845a3d31e17bfcf29c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy - Copy\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_552539b3f9917e700bc99cef1541ea4960f21c3c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Toty\Desktop\xyzreader - Copy\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_ca45532141fb274b887962b032a3de4c32cf940b.jar" />
+    </item>
+
+</items>
